@@ -519,15 +519,15 @@ h2 {
         float: left !important; } }
 
 .activity {
-  background: #f3e7e8;
+  background: #000000;
   padding-bottom: 50px; }
   .activity .recent {
     margin-top: 0; }
   .activity h2 {
-    color: #584f53; }
+    color: #ffffff; }
   .activity .owl-carousel .owl-nav .owl-prev, .activity .owl-carousel .owl-nav .owl-next {
-    color: #212020;
-    border-color: #212020; }
+    color: #ffffff;
+    border-color: #ffffff; }
     .activity .owl-carousel .owl-nav .owl-prev:hover, .activity .owl-carousel .owl-nav .owl-next:hover {
       background: #212020;
       color: #fff; }
