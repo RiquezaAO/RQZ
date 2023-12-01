@@ -177,13 +177,13 @@ h2 {
     .contact-pop .content p {
       color: #584f53; }
     .contact-pop .content hr {
-      background-color: #e90e65;
+      background-color: #000000;
       width: 50px;
       height: 5px;
       border: none;
       margin-left: 0; }
     .contact-pop .content a {
-      background-color: #e90e65;
+      background-color: #000000;
       width: 158px;
       border-radius: 40px;
       color: #fefefe;
@@ -386,7 +386,7 @@ h2 {
   width: 100%; }
 
 .fh5co-recent-work {
-  background: #e90e65;
+  background: #000000;
   padding: 100px 0; }
   @media (max-width: 767px) {
     .fh5co-recent-work {
